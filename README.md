@@ -25,7 +25,16 @@
 # my social medias
 
 
+[khodekhadem](github.com/khodekhadem)  
 my youtube = [https://b2n.ir/khodekhadem](b2n.ir/khodekhadem)  &nbsp;  [![click](https://img.shields.io/badge/-click%20!-420ACD)](https://b2n.ir/khodekhadem)
+
+my telegram = [@khodekhadem](https://t.me/khodekhadem)  &nbsp;  [![click](https://img.shields.io/badge/-click%20!-420ACD)](https://t.me/khodekhadem)
+
+my instagram = [khodekhadem](www.instagram.com/khodekhadem)  &nbsp;  [![click](https://img.shields.io/badge/-click%20!-420ACD)](https://www.instagram.com/khodekhadem)
+
+my email = khadem13khadem@gmail.com
+
+[erfan](github.com/khodekhadem)  
 
 my telegram = [@khodekhadem](https://t.me/khodekhadem)  &nbsp;  [![click](https://img.shields.io/badge/-click%20!-420ACD)](https://t.me/khodekhadem)
 
